@@ -1,0 +1,66 @@
+.about_heading{
+    color: blue;
+    text-align: center;
+
+}
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.8;
+    text-align: justify;
+    background-color: grey;
+}
+
+.about_italics{
+    color: red;
+}
+
+.about_span{
+    color: green;
+}
+
+.container{
+    background-color: grey;
+    /* border: 1px solid black; */
+    display: flex;
+    border-radius: 7px;
+    
+}
+
+.image{
+    height: 60vh;
+    width: 500px;
+    /* border: 1px solid red; */
+    
+}
+
+.about1{
+    height: 60vh;
+    width: 500px;
+    /* border: 1px solid blue; */
+    text-align: justify;
+    font-size: larger;
+}
+
+.img{
+    display: block;
+    object-fit: cover;
+
+    
+}
+
+.header{
+    text-align: center;
+}
+.myself{
+    color: blue;
+}
+.essay{
+    text-align: center;
+}
+
+.nav{
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+    
+}
